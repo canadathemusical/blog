@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A personal blog with react and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenopoet/blog.git"
+  },
+  "author": "Daniel Stout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenopoet/blog/issues"
+  },
+  "homepage": "https://github.com/lenopoet/blog#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
