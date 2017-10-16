@@ -6,4 +6,5 @@ app.use(express.static(path.join(__dirname,"/html")));
 
 app.listen(7777,function(){
     console.log("Started listening on port", 7777);
+    console.log('http://localhost:7777');
 })
